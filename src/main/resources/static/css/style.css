@@ -6,7 +6,7 @@
         margin: 5px;
         text-align: left;
     }
-    input[type=text], input[type=password], input[type=email], input[type=date] select {
+    input[type=text], input[type=password], input[type=email], input[type=date], select {
         display: inline-block;
         width: 200px;
     }
